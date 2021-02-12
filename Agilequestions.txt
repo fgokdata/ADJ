@@ -1,0 +1,27 @@
+1. Who decides what the team will work on?
+the Product Owner
+
+2. Which of the following statements BEST describes the Agile Manifesto?
+It contains values that establish an agile mindset
+
+3. Scrum projects are divided into:
+Phases
+
+4. You are a developer at a social media company working on a project to build a new feature to create a private site for a corporate client. You need to work with your company’s network engineers to determine a hosting strategy, and come up with a set of services and tools that the engineers will use to manage the site. The network engineers want to host all of the services internally on your network, but you and your teammates disagree and feel that the services should be hosted on the client’s network. Work on the project has come to a halt while everyone tries to come to an agreement. Which agile value BEST applies to this situation?
+
+Customer collaboration over contract negotiation
+
+5. What’s the highest priority of an agile team?
+Satisfying the customer by delivering valuable software early and often
+
+6. Which of the following is NOT a common feature of adaptive project management?
+Large amounts of upfront planning
+
+7. All of the following are part of the Scrum principals EXCEPT:
+Value-based Prioritization
+
+8. Who among the following is responsible for creating an awareness of Scrum practices among team members?
+Scrum Master
+
+9. Who has the final say on the order of the Product Backlog?
+Scrum Master
